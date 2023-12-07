@@ -26,7 +26,7 @@ dependencies {
 
 application {
     // Define the main class for the application.
-    mainClass = 'com.datatheorem.dt_sast_demo.App'
+    mainClass = 'test.jordan.android.androidcodingexercise'
 }
 
 tasks.named('test') {
